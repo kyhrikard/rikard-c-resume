@@ -74,4 +74,6 @@ a {
     height: 150px;
     width: 150px;
     background: url("../img/rikard-c-logo-t4-goldenYellow.png") no-repeat;
-    background-size: 150px 150px; } }
+    background-size: 150px 150px; }
+  .navbar-brand {
+    margin-right: 0; } }
